@@ -1,9 +1,10 @@
 ul {
-  font-family: verdana;
+  font-family: georgia;
   list-style: none;
 }
 
 a {
   text-decoration: none;
   color: pink;
+  font-family: arial;
 }
