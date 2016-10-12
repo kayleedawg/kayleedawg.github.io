@@ -33,6 +33,12 @@ p {
 
 /*-----NAV STYLES----*/
 
+h1{
+  font-size: 25px;
+  color: hotpink;
+  margin: 10px;
+}
+
 nav {
   float: left;
   width: 300px;
@@ -43,7 +49,6 @@ nav {
 
 nav ul {
   list-style-type: none;
-  margin: 30px;
   margin-bottom: 60px;
 }
 
@@ -62,8 +67,8 @@ nav ul li a {
   text-transform: uppercase;
   text-decoration: none;
 
-  padding-left: 25px;
-  border-bottom: 5px solid #ead6be;
+  padding-left: 10px;
+  border-bottom: 5px solid hotpink;
 }
 
 nav ul li a:hover {
