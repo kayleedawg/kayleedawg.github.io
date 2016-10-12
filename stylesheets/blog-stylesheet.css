@@ -15,6 +15,15 @@ nav {
   width: 320px;
 }
 
+.index {
+  width: 256px;
+  background-color: #e2a1ca;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+}
+
 article {
   float: right;
   width: 590px;
