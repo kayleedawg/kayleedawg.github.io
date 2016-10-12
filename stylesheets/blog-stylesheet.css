@@ -19,7 +19,7 @@ nav {
 }
 
 h1 {
-  margin: 30px;
+  float: center;
 }
 
 article {
@@ -55,6 +55,7 @@ p {
 
 nav ul {
   list-style-type: none;
+  margin: 30px;
   margin-bottom: 60px;
 }
 
