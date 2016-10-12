@@ -35,8 +35,9 @@ p {
 
 h1{
   font-size: 25px;
-  color: hotpink;
+  color: darkblue;
   margin: 10px;
+  display: block;
 }
 
 nav {
