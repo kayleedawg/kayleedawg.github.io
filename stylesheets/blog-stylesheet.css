@@ -12,14 +12,10 @@ section {
 
 nav {
   float: left;
-  width: 320px;
+  width: 300px;
   background-color: #e2a1ca;
   position: absolute;
-  height: 100%;
-}
-
-h1 {
-  float: center;
+  height: 50%;
 }
 
 article {
