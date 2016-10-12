@@ -16,7 +16,6 @@ nav {
   background-color: #e2a1ca;
   position: absolute;
   height: 100%;
-
 }
 
 article {
@@ -33,7 +32,7 @@ footer {
 
 h2 {
   font-size: 32px;
-  color: pink;
+  color: #e2a1ca;
   margin-bottom: 16px;
 }
 
