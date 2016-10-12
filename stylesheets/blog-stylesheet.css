@@ -29,7 +29,7 @@ footer {
 
 h2 {
   font-size: 32px;
-  color: gold;
+  color: pink;
   margin-bottom: 16px;
 }
 
@@ -54,7 +54,7 @@ nav ul {
 nav ul li a {
   display: block;
 
-  bakground-color: gold;
+  bakground-color: pink;
   color: darkblue;
 
   font-weight: bold;
