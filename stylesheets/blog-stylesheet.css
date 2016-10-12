@@ -10,23 +10,9 @@ section {
   background-color: lightblue;
 }
 
-nav {
-  float: left;
-  width: 300px;
-  background-color: #e2a1ca;
-  position: absolute;
-  height: 50%;
-}
-
 article {
   float: right;
   width: 590px;
-  padding: 25px;
-}
-
-footer {
-  clear: both;
-  background-color: #383f43;
   padding: 25px;
 }
 
@@ -36,10 +22,6 @@ h2 {
   margin-bottom: 16px;
 }
 
-h4 {
-  color: darkblue;
-}
-
 h3 a {
   text-decoration: none;
   color: darkblue;
@@ -47,6 +29,16 @@ h3 a {
 
 p {
   margin-bottom: 16px;
+}
+
+/*-----NAV STYLES----*/
+
+nav {
+  float: left;
+  width: 300px;
+  background-color: #e2a1ca;
+  position: absolute;
+  height: 50%;
 }
 
 nav ul {
@@ -77,3 +69,19 @@ nav ul li a {
 nav ul li a:hover {
   background: #d06038;
 }
+
+/*----end NAV STYLES----*/
+
+/*----FOOTER----*/
+
+footer {
+  clear: both;
+  background-color: #383f43;
+  padding: 25px;
+}
+
+h4 {
+  color: darkblue;
+}
+
+/*----end FOOTER----*/
