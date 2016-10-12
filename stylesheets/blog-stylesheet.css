@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  color: #dfdfdf;
+  color: darkblue;
   background-color: lightyellow;
 }
 
@@ -29,7 +29,7 @@ footer {
 
 h2 {
   font-size: 32px;
-  color: #d06038;
+  color: gold;
   margin-bottom: 16px;
 }
 
@@ -54,8 +54,8 @@ nav ul {
 nav ul li a {
   display: block;
 
-  bakground-color: #1e1915;
-  color: #e7dacc;
+  bakground-color: gold;
+  color: darkblue;
 
   font-weight: bold;
   font-size: 20px;
