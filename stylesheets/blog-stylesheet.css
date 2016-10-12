@@ -18,6 +18,10 @@ nav {
   height: 100%;
 }
 
+h1 {
+  margin: 30px;
+}
+
 article {
   float: right;
   width: 590px;
