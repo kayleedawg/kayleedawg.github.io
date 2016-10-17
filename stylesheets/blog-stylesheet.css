@@ -165,6 +165,11 @@ article {
   padding: 25px;
 }
 
+h1{
+  font-size: 25px;
+  color: darkblue;
+}
+
 h2 {
   font-size: 32px;
   font-family: georgia;
@@ -184,11 +189,6 @@ p {
 
 /*-----NAV STYLES----*/
 
-h1{
-  font-size: 25px;
-  color: darkblue;
-  margin: 10px;
-}
 
 nav {
   width: 270px;
