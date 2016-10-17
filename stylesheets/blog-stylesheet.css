@@ -179,6 +179,8 @@ h2 {
 h3 {
   font-family: georgia;
   color: lightyellow;
+  margin-bottom: 10px;
+  padding-left: 15px;
 }
 
 p {
@@ -187,7 +189,6 @@ p {
 }
 
 /*-----NAV STYLES----*/
-
 
 nav {
   width: 270px;
