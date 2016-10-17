@@ -10,6 +10,11 @@ section {
   background-color: lightblue;
 }
 
+h1 {
+  display: inline-block;
+  position: relative;
+}
+
 article {
   float: right;
   width: 590px;
