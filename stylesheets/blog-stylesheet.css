@@ -185,7 +185,7 @@ h1{
 
 nav {
   float: left;
-  width: 300px;
+  width: 200px;
   background-color: #e2a1ca;
   position: absolute;
   height: 50%;
@@ -198,6 +198,7 @@ nav ul {
 
 nav ul li a {
   display: block;
+  margin-left: 25px;
 
   bakground-color: pink;
   color: darkblue;
@@ -205,18 +206,18 @@ nav ul li a {
   font-weight: bold;
   font-size: 20px;
 
-  line-height: 60px;
-  height: 60px;
+  line-height: 40px;
+  height: 40px;
 
-  text-transform: uppercase;
+  text-transform: lowercase;;
   text-decoration: none;
 
   padding-left: 10px;
-  border-bottom: 5px solid hotpink;
+  border-bottom: 3px solid hotpink;
 }
 
 nav ul li a:hover {
-  background: #d06038;
+  background: hotpink;
 }
 
 /*----end NAV STYLES----*/
