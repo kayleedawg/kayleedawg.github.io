@@ -242,8 +242,13 @@ footer {
   padding: 25px;
 }
 
-h4 {
+h4 a {
+  text-decoration: none;
   color: white;
+}
+
+h4 a:hover {
+  color: lightyellow;
 }
 
 /*----end FOOTER----*/
