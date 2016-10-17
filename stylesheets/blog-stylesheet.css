@@ -174,13 +174,14 @@ h2 {
   font-size: 32px;
   font-family: georgia;
   color: #e2a1ca;
+  margin-bottom: 5px;
 }
 
 h3 {
   font-family: georgia;
   color: lightyellow;
   margin-bottom: 10px;
-  padding-left: 30px;
+  padding-left: 5px;
 }
 
 p {
