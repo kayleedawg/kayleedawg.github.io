@@ -137,6 +137,8 @@ table {
 
 /* ------end RESET-----*/
 
+/*-----STYLE----*/
+
 body {
   font-family: Arial, sans-serif;
   color: darkblue;
@@ -184,11 +186,12 @@ h1{
 }
 
 nav {
-  float: left;
   width: 200px;
   background-color: #e2a1ca;
   position: absolute;
   height: 50%;
+  top: 50px;
+  left: 50px;
 }
 
 nav ul {
