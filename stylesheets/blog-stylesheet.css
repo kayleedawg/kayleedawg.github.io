@@ -152,8 +152,8 @@ section {
 }
 
 header {
-  display: inline-block;
-  position: relative;
+  display: block;
+  text-align: center;
 }
 
 article {
