@@ -189,9 +189,8 @@ nav {
   width: 200px;
   background-color: #e2a1ca;
   position: absolute;
-  height: 50%;
-  top: 50px;
-  left: 50px;
+  top: 400px;
+  left: 200px;
 }
 
 nav ul {
