@@ -151,9 +151,12 @@ section {
   background-color: lightblue;
 }
 
-img {
-  display: block;
+header {
   text-align: center;
+}
+
+header img {
+  display: block;
 }
 
 article {
