@@ -187,6 +187,7 @@ h1{
 
 nav {
   width: 270px;
+  background-color: lightyellow;
   position: absolute;
   top: 350px;
   left: 200px;
@@ -200,7 +201,7 @@ nav ul {
 nav ul li a {
   display: block;
 
-  bakground-color: lightyellow;
+  background-color: lightyellow;
   color: darkblue;
 
   font-weight: bold;
