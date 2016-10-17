@@ -153,6 +153,7 @@ section {
 
 header {
   text-align: center;
+  border-bottom: 5px solid lightyellow;
 }
 
 header img {
@@ -168,6 +169,8 @@ article {
 h1{
   font-size: 25px;
   color: darkblue;
+  text-align: center;
+  padding-top: 10px;
 }
 
 h2 {
@@ -197,6 +200,7 @@ nav {
   position: absolute;
   top: 350px;
   left: 200px;
+  border: 5px solid pink;
 }
 
 nav ul {
@@ -219,6 +223,7 @@ nav ul li a {
   text-transform: lowercase;;
   text-decoration: none;
 
+  padding-top: 15px;
   padding-left: 10px;
   border-bottom: 3px solid pink;
 }
@@ -238,7 +243,7 @@ footer {
 }
 
 h4 {
-  color: darkblue;
+  color: white;
 }
 
 /*----end FOOTER----*/
