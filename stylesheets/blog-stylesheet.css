@@ -164,6 +164,7 @@ article {
 
 h2 {
   font-size: 32px;
+  font-family: georgia;
   color: #e2a1ca;
   margin-bottom: 16px;
 }
@@ -174,6 +175,7 @@ h3 a {
 }
 
 p {
+  font-family: arial;
   margin-bottom: 16px;
 }
 
