@@ -192,6 +192,12 @@ p {
   margin-bottom: 16px;
 }
 
+img {
+  height: 300px;
+  width: 400px;
+  text-align: center;
+}
+
 /*-----NAV STYLES----*/
 
 nav {
