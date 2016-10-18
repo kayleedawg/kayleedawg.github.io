@@ -192,7 +192,8 @@ p {
   margin-bottom: 16px;
 }
 
-img {
+#post1,
+#post2 {
   height: 300px;
   width: 400px;
   text-align: center;
