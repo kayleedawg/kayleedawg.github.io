@@ -239,7 +239,8 @@ nav ul li a:hover {
 }
 
 div img {
-  padding-left: 15px;
+  margin-left: 15px;
+  margin-top: 300px;
 }
 /*----end NAV STYLES----*/
 
