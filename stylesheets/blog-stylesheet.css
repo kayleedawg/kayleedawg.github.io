@@ -194,7 +194,8 @@ p {
 
 p img {
   border: 3px solid lightpink;
-  text-align: center;
+  display: inline-block;
+  padding-left: 50px;
 }
 
 
