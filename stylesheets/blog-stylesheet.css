@@ -192,8 +192,7 @@ p {
   margin-bottom: 16px;
 }
 
-#post1,
-#post2 {
+div {
   height: 300px;
   width: 400px;
   text-align: center;
