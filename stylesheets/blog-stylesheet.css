@@ -192,6 +192,11 @@ p {
   margin-bottom: 16px;
 }
 
+p img {
+  border: 3px solid lightpink;
+  text-align: center;
+}
+
 
 /*-----NAV STYLES----*/
 
