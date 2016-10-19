@@ -238,6 +238,10 @@ nav ul li a:hover {
   background: pink;
 }
 
+p img {
+  padding-top: 60px;
+  padding-left: 10px;
+}
 /*----end NAV STYLES----*/
 
 /*----FOOTER----*/
