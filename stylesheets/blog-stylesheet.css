@@ -241,7 +241,8 @@ nav ul li a:hover {
 p img {
   padding-top: 60px;
   padding-left: 10px;
-  display: inline-block;
+  position: absolute;
+  display: block;
 }
 /*----end NAV STYLES----*/
 
