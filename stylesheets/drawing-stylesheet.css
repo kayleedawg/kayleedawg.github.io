@@ -139,11 +139,16 @@ table {
 
 /*-----HEADER STYLE----*/
 header {
-  width: 960px;
+  background-color: #000;
+  padding: 35px;
 }
 /*-----end HEADER STYLE----*/
 
 /*----STRUCTURE STYLE---*/
+.wrapper {
+  width: 1024px;
+  margin: auto;
+}
 
 /*----end STRUCTURE---*/
 
