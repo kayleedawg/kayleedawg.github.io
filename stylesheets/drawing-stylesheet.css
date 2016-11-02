@@ -229,13 +229,14 @@ footer {
   padding: 25px;
 }
 
-#sources img {
+footer img {
   width: 50px;
   height: 50px;
   padding-top: 25px;
   padding-left: 600px;
   margin: 10px;
 }
+
 #sources {
   top: 0;
   padding-left: 600px;
