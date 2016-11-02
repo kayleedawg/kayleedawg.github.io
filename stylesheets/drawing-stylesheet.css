@@ -182,7 +182,7 @@ section {
 }
 
 #past, #present, #future, #sources {
-  padding-top: 25px;
+  padding-top: 0;
   padding-left: 75px;
   margin: 0;
   position: absolute;
