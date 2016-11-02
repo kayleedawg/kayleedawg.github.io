@@ -189,7 +189,7 @@ a:hover #future {
    background-color: rgba();
 }
 
-img {
+.button {
   position: absolute;
   width: 200px;
   height: 200px;
