@@ -189,6 +189,30 @@ a:hover #future {
    background-color: rgba();
 }
 
-
-
 /*---end NAV----*/
+
+/*----FOOTER STYLE----*/
+footer {
+  clear: both;
+  background-color: #383f43;
+  padding: 25px;
+}
+
+#sources {
+  background-color: rgba();
+}
+
+a:hover #sources{
+   background-color: rgba();
+}
+
+h4 a {
+  text-decoration: none;
+  color: white;
+}
+
+h4 a:hover {
+  color: lightyellow;
+}
+
+/*----end FOOTER*/
