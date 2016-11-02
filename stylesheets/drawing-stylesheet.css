@@ -229,9 +229,16 @@ footer {
   padding: 25px;
 }
 
+#sources img {
+  width: 200px;
+  height: 200px;
+  padding-top: 25px;
+  padding-left: 600px;
+  margin: 10px;
+}
 #sources {
   top: 0;
-  padding-left: 300px;
+  padding-left: 600px;
   margin: 0;
   width: 200px;
   height: 200px;
