@@ -176,15 +176,13 @@ section {
 .button img {
   width: 200px;
   height: 200px;
+  top: 25px;
+  left: 50px;
+  margin: 10px;
 }
 
 #past, #present, #future, #sources {
   position: absolute;
-  top: 0;
-  left: 0;
-  margin: 0;
-  width: 200px;
-  height: 200px;
   text-align: center;
   line-height: 300px;
   font-family: helvetica;
