@@ -170,6 +170,10 @@ section {
 .button {
   display: inline-block;
   position: absolute;
+  ]margin-right: -4px;
+}
+
+p {
   width: 200px;
   height: 200px;
   text-align: center;
