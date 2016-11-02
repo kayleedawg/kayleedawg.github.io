@@ -173,7 +173,7 @@ section {
   ]margin-right: -4px;
 }
 
-p {
+#past, #present, #future, #sources {
   position: absolute;
   top: 0;
   left: 0;
