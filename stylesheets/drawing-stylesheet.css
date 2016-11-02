@@ -169,8 +169,8 @@ section {
 /*----NAV STYLES---*/
 .button {
   display: inline-block;
-  position: absolute;
-  ]margin-right: -4px;
+  position: relative;
+  margin-right: -4px;
 }
 
 #past, #present, #future, #sources {
@@ -184,7 +184,7 @@ section {
   line-height: 300px;
   font-family: helvetica;
   font-size: 24px;
-  font-weight: regular;
+  font-weight: bold;
   color: black;
 }
 
