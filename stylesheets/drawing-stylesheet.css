@@ -185,6 +185,8 @@ section {
   padding-top: 0;
   padding-left: 75px;
   margin: 0;
+  width: 200px;
+  height: 200px;
   position: absolute;
   text-align: center;
   line-height: 300px;
