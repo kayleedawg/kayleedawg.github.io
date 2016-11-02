@@ -230,8 +230,8 @@ footer {
 }
 
 #sources img {
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
   padding-top: 25px;
   padding-left: 600px;
   margin: 10px;
@@ -240,8 +240,8 @@ footer {
   top: 0;
   padding-left: 600px;
   margin: 0;
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
   position: absolute;
   text-align: center;
   line-height: 300px;
