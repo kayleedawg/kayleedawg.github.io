@@ -143,21 +143,9 @@ table {
 
 /*----STRUCTURE STYLE---*/
 
-#wrapper {
-  width: 1024px;
-  display: table;
-  margin: auto;
-}
-
 /*----end STRUCTURE---*/
 
 /*----MAIN STYLES----*/
-main {
-  width: 1024px;
-  display: table-cell;
-  background-color: lightgray;
-}
-
 body {
   font-family: Arial, sans-serif;
   color: darkblue;
