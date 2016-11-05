@@ -192,8 +192,8 @@ section {
 }
 
 .button4 p {
-  padding-top: 300px;
-  padding-left: 600px;
+  margin-top: 200px;
+  margin-left: 600px;
   margin: 0;
   width: 100px;
   height: 100px;
@@ -225,6 +225,9 @@ section {
 
 #past {
   background-color: rgba(234, 185, 98, 0.3);
+  width: 200px;
+  height: 200px;
+  padding-left:
 }
 
 #present {
@@ -243,6 +246,9 @@ a:hover #past {
    background-color: rgba(234, 184, 98, 0.7);
    width: 200px;
    height: 200px;
+   padding-top: 25px;
+   padding-left: 75px;
+   padding-bottom: 25px;
 }
 
 a:hover #present {
