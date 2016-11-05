@@ -171,7 +171,7 @@ section {
 }
 
 p {
-  margin-top: 50px;
+  top: 0;
   margin-left: 85px;
   position: absolute;
   text-align: center;
@@ -189,8 +189,8 @@ p {
 }
 
 .button4 p {
-  margin-top: 75px;
-  margin-left: 800px;
+  margin-top: 50px;
+  margin-left: 700px;
   position: absolute;
   text-align: center;
   line-height: 50px;
@@ -209,8 +209,8 @@ p {
 }
 
 .button4 img {
-    margin-left: 800px;
-    margin-top: 75px;
+    margin-left: 700px;
+    margin-top: 50px;
     width: 100px;
     height: 100px;
   }
@@ -250,8 +250,8 @@ p {
     width: 100px;
     height: 100px;
     padding: 0;
-    margin-left: 800px;
-    margin-top: 75px;
+    margin-left: 700px;
+    margin-top: 50px;
   }
 
   a:hover #past {
@@ -289,8 +289,8 @@ p {
      width: 100px;
      height: 100px;
      padding: 0;
-     margin-left: 800px;
-     margin-top: 75px;
+     margin-left: 700px;
+     margin-top: 50px;
   }
 
 /*---end NAV----*/
