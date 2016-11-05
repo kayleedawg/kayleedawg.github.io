@@ -220,48 +220,56 @@ section {
     background-color: rgba(234, 185, 98, 0.3);
     width: 200px;
     height: 200px;
+    padding: 0;
   }
 
   #present {
     background-color: rgba(235, 61, 171, 0.3);
     width: 200px;
     height: 200px;
+    padding: 0;
   }
 
   #future {
     background-color: rgba(38, 54, 232, 0.3);
     width: 200px;
     height: 200px;
+    padding: 0;
   }
 
   #sources {
     background-color: rgba(99, 17, 166, 0.3);
     width: 100px;
     height: 100px;
+    padding: 0;
   }
 
   a:hover #past {
      background-color: rgba(234, 184, 98, 0.7);
      width: 200px;
      height: 200px;
+     padding: 0;
   }
 
   a:hover #present {
     background-color: rgba(235, 61, 171, 0.7);
     width: 200px;
     height: 200px;
+    padding: 0;
   }
 
   a:hover #future {
      background-color: rgba(38, 54, 232, 0.7);
      width: 200px;
      height: 200px;
+     padding: 0;
   }
 
   a:hover #sources {
      background-color: rgba(99, 17, 166, 0.7);
      width: 100px;
      height: 100px;
+     padding: 0;
   }
 
 /*---end NAV----*/
