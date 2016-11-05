@@ -301,13 +301,14 @@ p {
 footer {
   display: block;
   background-color: #E2E3E3;
-  height: 73px;
+  width: 960px;
+  height: 50px;
   padding: 10px;
-  margin-right: 15px;
+  margin-right: 25px;
 }
 
 h2 a {
-  font-size: 13px;
+  font-size: 17px;
   text-decoration: none;
   color: black;
   font-family: 'Itim', cursive;
