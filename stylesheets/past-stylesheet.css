@@ -279,20 +279,6 @@ article {
   padding: 25px;
 }
 
-<<<<<<< HEAD
-.column1 {
-  width: 500px;
-  display: table-cell;
-  background-color: lightgrey;
-
-.column2 {
-    display: table-cell;
-    padding: 26px;
-    background-color: white;
-  }
-
-=======
->>>>>>> parent of d2834e6... vkldfnsv
 h1 {
   font-family: 'Itim', cursive;
   font-size: 15px;
@@ -306,43 +292,6 @@ article p {
   color: black;
 }
 
-.button-source p {
-  margin-top: 50px;
-  margin-left: 750px;
-  position: absolute;
-  text-align: center;
-  line-height: 50px;
-  font-family: 'Itim', cursive;
-  font-size: 21px;
-  font-weight: bold;
-  color: black;
-}
-
-.button-source img {
-    margin-left: 750px;
-    margin-top: 50px;
-    width: 100px;
-    height: 100px;
-    opacity: 0.3;
-  }
-
-#sources {
-    background-color: rgba(99, 17, 166, 0.3);
-    width: 100px;
-    height: 100px;
-    padding: 0;
-    margin-left: 750px;
-    margin-top: 50px;
-  }
-
-a:hover #sources {
-   background-color: rgba(99, 17, 166, 0.7);
-   width: 100px;
-   height: 100px;
-   padding: 0;
-   margin-left: 750px;
-   margin-top: 50px;
-  }
 
 /*----FOOTER STYLE----*/
 footer {
