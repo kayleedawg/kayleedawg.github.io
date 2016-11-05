@@ -298,7 +298,12 @@ article p {
   padding-bottom: 15px;
 }
 
-article img {
+.column {
+  width: 250px;
+  display: table-cell;
+  background-color: white;
+
+p img {
   width: 200px;
   height: 200px;
 }
