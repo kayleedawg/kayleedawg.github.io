@@ -304,10 +304,10 @@ footer {
   width: 960px;
   height: 50px;
   padding: 10px;
-  margin-right: 25px;
 }
 
 h2 a {
+  margin-right: 20px;
   font-size: 17px;
   text-decoration: none;
   color: black;
