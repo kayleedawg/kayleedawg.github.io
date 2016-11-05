@@ -175,6 +175,7 @@ section {
   height: 200px;
   padding-top: 25px;
   padding-left: 75px;
+  padding-bottom: 25px;
   margin: 10px;
 }
 
@@ -194,7 +195,7 @@ section {
 }
 
 #past {
-  background-color: rgba(183, 117, 56, 0.4);
+  background-color: rgba(66, 149, 204, .8);
 }
 
 #present {
