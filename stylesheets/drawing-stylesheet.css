@@ -182,13 +182,13 @@ section {
 .button4 img {
     padding-left: 600px;
     margin: 0;
-    width: 50px;
-    height: 50px;
+    width: 100px;
+    height: 100px;
   }
 
 #past, #present, #future {
   top: 0;
-  padding-left: 85px;
+  left: 0;
   margin: 0;
   width: 200px;
   height: 200px;
@@ -202,6 +202,7 @@ section {
 }
 
 #sources {
+  padding-left: 600px;
   position: absolute;
   text-align: center;
   line-height: 50px;
