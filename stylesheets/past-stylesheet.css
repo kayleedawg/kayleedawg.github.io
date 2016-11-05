@@ -279,6 +279,7 @@ article {
   padding: 25px;
 }
 
+<<<<<<< HEAD
 .column1 {
   width: 500px;
   display: table-cell;
@@ -290,6 +291,8 @@ article {
     background-color: white;
   }
 
+=======
+>>>>>>> parent of d2834e6... vkldfnsv
 h1 {
   font-family: 'Itim', cursive;
   font-size: 15px;
