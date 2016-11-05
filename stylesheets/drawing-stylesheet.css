@@ -185,6 +185,12 @@ section {
   color: black;
 }
 
+.button4 {
+  display: inline-block;
+  position: relative;
+  margin-right: -4px;
+}
+
 .button4 p {
   padding-top: 300px;
   padding-left: 600px;
