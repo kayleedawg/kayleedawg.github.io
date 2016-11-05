@@ -174,7 +174,7 @@ section {
   margin-right: -4px;
 }
 
-p {
+nav p {
   top: 0;
   margin-left: 95px;
   position: absolute;
@@ -305,7 +305,7 @@ p {
 article {
   float: center;
   width: 590px;
-  padding: 25px;
+  padding-left: 50px;
 }
 
 h1 {
