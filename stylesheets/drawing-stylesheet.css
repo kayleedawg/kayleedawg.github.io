@@ -302,7 +302,7 @@ footer {
   display: block;
   background-color: white;
   padding: 25px;
-  height: 50px;
+  height: 40px;
 }
 
 h4 a {
@@ -311,7 +311,7 @@ h4 a {
 }
 
 h4 a:hover {
-  color: lightyellow;
+  color: #5C5757;
 }
 
 /*----end FOOTER*/
