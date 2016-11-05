@@ -138,10 +138,7 @@ table {
 /* ------end RESET-----*/
 
 /*-----HEADER STYLE----*/
-header {
-  background-color: #000;
-  padding: 35px;
-}
+
 /*-----end HEADER STYLE----*/
 
 /*----STRUCTURE STYLE---*/
@@ -156,13 +153,13 @@ header {
 body {
   font-family: Arial, sans-serif;
   color: darkblue;
-  background-color: lightyellow;
+  background-color: #5C5757;
 }
 
 section {
   width: 960px;
   margin: auto;
-  background-color: lightblue;
+  background-color: #C7BFBF;
 }
 /*----end MAIN-----*/
 
