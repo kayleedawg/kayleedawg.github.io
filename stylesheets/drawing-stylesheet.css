@@ -226,14 +226,32 @@ section {
 
 a:hover #past{
    background-color: rgba(234, 184, 98, 0.7);
+   width: 200px;
+   height: 200px;
+   padding-top: 25px;
+   padding-left: 75px;
+   padding-bottom: 25px;
+   margin: 10px;
 }
 
 a:hover #present {
   background-color: rgba(235, 61, 171, 0.7);
+  width: 200px;
+  height: 200px;
+  padding-top: 25px;
+  padding-left: 75px;
+  padding-bottom: 25px;
+  margin: 10px;
 }
 
 a:hover #future {
    background-color: rgba(38, 54, 232, 0.7);
+   width: 200px;
+   height: 200px;
+   padding-top: 25px;
+   padding-left: 75px;
+   padding-bottom: 25px;
+   margin: 10px;
 }
 
 /*---end NAV----*/
