@@ -282,6 +282,7 @@ article {
   display: inline-block;
   float: center;
   width: 590px;
+  padding-left: 160px;
 }
 
 h1 {
@@ -291,10 +292,6 @@ h1 {
   color: black;
 }
 
-h3 {
-  width: 370px;
-}
-
 article p {
   font-family: 'Itim', cursive;
   font-size: 21px;
@@ -302,7 +299,7 @@ article p {
   padding-bottom: 15px;
 }
 
-h3 img {
+article img {
   display: inline-block;
   width: 230px;
   height: 200px;
