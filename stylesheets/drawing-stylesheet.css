@@ -187,9 +187,10 @@ section {
   }
 
 #past, #present, #future {
-  top: 0;
-  left: 0;
-  margin: 0;
+  padding-top: 25px;
+  padding-left: 85px;
+  padding-bottom: 25px;
+  margin: 10px;
   width: 200px;
   height: 200px;
   position: absolute;
@@ -203,6 +204,7 @@ section {
 
 #sources {
   padding-left: 600px;
+  margin: 0;
   position: absolute;
   text-align: center;
   line-height: 50px;
