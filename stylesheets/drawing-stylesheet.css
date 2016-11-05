@@ -164,13 +164,13 @@ section {
 /*----end MAIN-----*/
 
 /*----NAV STYLES---*/
-.button {
+.button1, .button2, .button3, .button4 {
   display: inline-block;
   position: relative;
   margin-right: -4px;
 }
 
-.button p {
+.button1, .button2, .button3 p {
   top: 0;
   padding-left: 85px;
   margin: 0;
@@ -200,7 +200,7 @@ section {
   color: black;
 }
 
-.button img {
+.button1, .button2, .button3 img {
   width: 200px;
   height: 200px;
   padding-top: 25px;
@@ -216,41 +216,41 @@ section {
     height: 100px;
   }
 
-#past {
+.button1 {
   background-color: rgba(234, 185, 98, 0.3);
 }
 
-#present {
+.button2 {
   background-color: rgba(235, 61, 171, 0.3);
 }
 
-#future {
+.button3 {
   background-color: rgba(38, 54, 232, 0.3);
 }
 
-#sources {
+.button4 {
   background-color: rgba(99, 17, 166, 0.3);
 }
 
-a:hover #past {
+a:hover .button1 {
    background-color: rgba(234, 184, 98, 0.7);
    width: 200px;
    height: 200px;
 }
 
-a:hover #present {
+a:hover .button2 {
   background-color: rgba(235, 61, 171, 0.7);
   width: 200px;
   height: 200px;
 }
 
-a:hover #future {
+a:hover .button3 {
    background-color: rgba(38, 54, 232, 0.7);
    width: 200px;
    height: 200px;
 }
 
-a:hover #sources {
+a:hover .button4 {
    background-color: rgba(99, 17, 166, 0.7);
 }
 
