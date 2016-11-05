@@ -174,7 +174,7 @@ section {
   margin-right: -4px;
 }
 
-nav p {
+p {
   top: 0;
   margin-left: 95px;
   position: absolute;
@@ -192,6 +192,18 @@ nav p {
   margin-right: -4px;
 }
 
+.button-source p {
+  margin-top: 50px;
+  margin-left: 750px;
+  position: absolute;
+  text-align: center;
+  line-height: 50px;
+  font-family: 'Itim', cursive;
+  font-size: 21px;
+  font-weight: bold;
+  color: black;
+}
+
 .button img {
   width: 200px;
   height: 200px;
@@ -200,6 +212,14 @@ nav p {
   margin-bottom: 10px;
   opacity: 0.3;
 }
+
+.button-source img {
+    margin-left: 750px;
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    opacity: 0.3;
+  }
 
   #past {
     background-color: rgba(234, 185, 98, 0.3);
@@ -229,6 +249,15 @@ nav p {
     margin-top: 25px;
     margin-left: 85px;
     margin-bottom: 10px;
+  }
+
+  #sources {
+    background-color: rgba(99, 17, 166, 0.3);
+    width: 100px;
+    height: 100px;
+    padding: 0;
+    margin-left: 750px;
+    margin-top: 50px;
   }
 
   a:hover #past {
@@ -261,7 +290,7 @@ nav p {
      margin-bottom: 10px;
   }
 
-a:hover #sources {
+  a:hover #sources {
      background-color: rgba(99, 17, 166, 0.7);
      width: 100px;
      height: 100px;
