@@ -302,6 +302,8 @@ footer {
   display: block;
   background-color: #E2E3E3;
   height: 73px;
+  padding: 10px;
+  margin-right: 15px;
 }
 
 h2 a {
