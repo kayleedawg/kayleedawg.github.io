@@ -164,9 +164,9 @@ section {
 /*----end MAIN-----*/
 
 /*----NAV STYLES---*/
-div {
+.button {
   display: inline-block;
-  position: absolute;
+  position: relative;
   margin-right: -4px;
 }
 
@@ -218,22 +218,18 @@ div {
 
 #past {
   background-color: rgba(234, 185, 98, 0.3);
-  display: block;
 }
 
 #present {
   background-color: rgba(235, 61, 171, 0.3);
-  display: block;
 }
 
 #future {
   background-color: rgba(38, 54, 232, 0.3);
-  display: block;
 }
 
 #sources {
   background-color: rgba(99, 17, 166, 0.3);
-  display: block;
 }
 
 a:hover #past {
