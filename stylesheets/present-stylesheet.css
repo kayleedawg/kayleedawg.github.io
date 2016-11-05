@@ -1,0 +1,318 @@
+/* ------CSS RESET-----*/
+
+
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0%;
+  vertical-align: baseline;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+  font-family: tahoma;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* ------end RESET-----*/
+
+/*-----HEADER STYLE----*/
+
+/*-----end HEADER STYLE----*/
+
+/*----STRUCTURE STYLE---*/
+.wrapper {
+  width: 1024px;
+  margin: auto;
+}
+
+/*----end STRUCTURE---*/
+
+/*----MAIN STYLES----*/
+body {
+  font-family: Arial, sans-serif;
+  color: darkblue;
+  background-color: #5C5757;
+}
+
+section {
+  width: 960px;
+  margin: auto;
+  background-color: #C7BFBF;
+}
+/*----end MAIN-----*/
+
+/*----NAV STYLES---*/
+.button {
+  display: inline-block;
+  position: relative;
+  margin-right: -4px;
+}
+
+p {
+  top: 0;
+  margin-left: 95px;
+  position: absolute;
+  text-align: center;
+  line-height: 300px;
+  font-family: 'Itim', cursive;
+  font-size: 45px;
+  font-weight: bold;
+  color: black;
+}
+
+.button-source {
+  display: inline-block;
+  position: relative;
+  margin-right: -4px;
+}
+
+.button-source p {
+  margin-top: 50px;
+  margin-left: 750px;
+  position: absolute;
+  text-align: center;
+  line-height: 50px;
+  font-family: 'Itim', cursive;
+  font-size: 21px;
+  font-weight: bold;
+  color: black;
+}
+
+.button img {
+  width: 200px;
+  height: 200px;
+  margin-top: 25px;
+  margin-left: 85px;
+  margin-bottom: 10px;
+  opacity: 0.3;
+}
+
+.button-source img {
+    margin-left: 750px;
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    opacity: 0.3;
+  }
+
+  #past {
+    background-color: rgba(234, 185, 98, 0.3);
+    width: 200px;
+    height: 200px;
+    padding: 0;
+    margin-top: 25px;
+    margin-left: 85px;
+    margin-bottom: 10px;
+  }
+
+  #present {
+    background-color: rgba(235, 61, 171, 0.3);
+    width: 200px;
+    height: 200px;
+    padding: 0;
+    margin-top: 25px;
+    margin-left: 85px;
+    margin-bottom: 10px;
+  }
+
+  #future {
+    background-color: rgba(212, 251, 251, 0.3);
+    width: 200px;
+    height: 200px;
+    padding: 0;
+    margin-top: 25px;
+    margin-left: 85px;
+    margin-bottom: 10px;
+  }
+
+  #sources {
+    background-color: rgba(99, 17, 166, 0.3);
+    width: 100px;
+    height: 100px;
+    padding: 0;
+    margin-left: 750px;
+    margin-top: 50px;
+  }
+
+  a:hover #past {
+     background-color: rgba(234, 184, 98, 0.7);
+     width: 200px;
+     height: 200px;
+     padding: 0;
+     margin-top: 25px;
+     margin-left: 85px;
+     margin-bottom: 10px;
+  }
+
+  a:hover #present {
+    background-color: rgba(235, 61, 171, 0.7);
+    width: 200px;
+    height: 200px;
+    padding: 0;
+    margin-top: 25px;
+    margin-left: 85px;
+    margin-bottom: 10px;
+  }
+
+  a:hover #future {
+     background-color: rgba(212, 251, 251, 0.7);
+     width: 200px;
+     height: 200px;
+     padding: 0;
+     margin-top: 25px;
+     margin-left: 85px;
+     margin-bottom: 10px;
+  }
+
+  a:hover #sources {
+     background-color: rgba(99, 17, 166, 0.7);
+     width: 100px;
+     height: 100px;
+     padding: 0;
+     margin-left: 750px;
+     margin-top: 50px;
+  }
+
+/*---end NAV----*/
+
+/*----FOOTER STYLE----*/
+footer {
+  display: block;
+  background-color: #E2E3E3;
+  padding: 25px;
+  height: 50px;
+}
+
+h4 a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Itim', cursive;
+}
+
+h4 a:hover {
+  color: #5C5757;
+}
+
+/*----end FOOTER*/
