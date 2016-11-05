@@ -227,15 +227,27 @@ section {
   background-color: rgba(234, 185, 98, 0.3);
   width: 200px;
   height: 200px;
-  padding-left:
+  padding-top: 25px;
+  padding-left: 75px;
+  padding-bottom: 25px;
 }
 
 #present {
   background-color: rgba(235, 61, 171, 0.3);
+  width: 200px;
+  height: 200px;
+  padding-top: 25px;
+  padding-left: 75px;
+  padding-bottom: 25px;
 }
 
 #future {
   background-color: rgba(38, 54, 232, 0.3);
+  width: 200px;
+  height: 200px;
+  padding-top: 25px;
+  padding-left: 75px;
+  padding-bottom: 25px;
 }
 
 #sources {
