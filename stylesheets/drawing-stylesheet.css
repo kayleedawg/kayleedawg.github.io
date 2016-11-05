@@ -203,6 +203,7 @@ section {
 
 #sources {
   padding-left: 600px;
+  margin: 0;
   position: absolute;
   text-align: center;
   line-height: 50px;
