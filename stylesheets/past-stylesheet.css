@@ -281,14 +281,14 @@ nav p {
 article {
   float: center;
   width: 590px;
-  padding-left: 150px;
+  padding-left: 160px;
 }
 
 h1 {
   font-family: 'Itim', cursive;
-  font-size: 35px;
+  font-size: 37px;
   font-weight: bold;
-  color: darkgrey;
+  color: black;
 }
 
 article p {
@@ -299,8 +299,10 @@ article p {
 }
 
 article img {
-  width: 200px;
+  width: 230px;
   height: 200px;
+  margin: 5px;
+  padding-left: 15px;
 }
 
 
