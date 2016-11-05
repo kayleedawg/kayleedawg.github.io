@@ -179,6 +179,13 @@ section {
   margin: 10px;
 }
 
+.button4 img {
+    padding-left: 600px;
+    margin: 0;
+    width: 50px;
+    height: 50px;
+  }
+
 #past, #present, #future {
   top: 0;
   padding-left: 85px;
@@ -194,22 +201,36 @@ section {
   color: black;
 }
 
+#sources {
+  position: absolute;
+  text-align: center;
+  line-height: 50px;
+  font-family: helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  color: black;
+}
+
 #past {
   background-color: rgba(234, 185, 98, 0.3);
-  width: 200px;
-  height: 200px;
 }
 
 #present {
   background-color: rgba(235, 61, 171, 0.3);
-  width: 200px;
-  height: 200px;
 }
 
 #future {
   background-color: rgba(38, 54, 232, 0.3);
-  width: 200px;
-  height: 200px;
+}
+
+#sources {
+  background-color: rgba(99, 17, 166, 0.3);
+}
+
+a:hover #past {
+   background-color: rgba(234, 184, 98, 0.7);
+   width: 200px;
+   height: 200px;
 }
 
 a:hover #present {
