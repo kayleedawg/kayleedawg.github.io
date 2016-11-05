@@ -306,6 +306,7 @@ footer {
 }
 
 h2 a {
+  font-size: 13px;
   text-decoration: none;
   color: black;
   font-family: 'Itim', cursive;
