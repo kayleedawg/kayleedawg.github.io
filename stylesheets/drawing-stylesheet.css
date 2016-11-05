@@ -174,8 +174,6 @@ section {
   top: 0;
   padding-left: 85px;
   margin: 0;
-  width: 200px;
-  height: 200px;
   position: absolute;
   text-align: center;
   line-height: 300px;
@@ -194,9 +192,6 @@ section {
 .button4 p {
   margin-top: 200px;
   margin-left: 600px;
-  margin: 0;
-  width: 100px;
-  height: 100px;
   position: absolute;
   text-align: center;
   line-height: 50px;
@@ -212,15 +207,71 @@ section {
   padding-top: 25px;
   padding-left: 75px;
   padding-bottom: 25px;
-  margin: 10px;
 }
 
 .button4 img {
     padding-left: 600px;
-    padding-top: 300px;
-    margin: 10px;
+    padding-top: 100px;
     width: 100px;
     height: 100px;
+  }
+
+  #past {
+    background-color: rgba(234, 185, 98, 0.3);
+    width: 200px;
+    height: 200px;
+    padding-top: 25px;
+    padding-left: 75px;
+    padding-bottom: 25px;
+  }
+
+  #present {
+    background-color: rgba(235, 61, 171, 0.3);
+    width: 200px;
+    height: 200px;
+    padding-top: 25px;
+    padding-left: 75px;
+    padding-bottom: 25px;
+  }
+
+  #future {
+    background-color: rgba(38, 54, 232, 0.3);
+    width: 200px;
+    height: 200px;
+    padding-top: 25px;
+    padding-left: 75px;
+    padding-bottom: 25px;
+  }
+
+  #sources {
+    background-color: rgba(99, 17, 166, 0.3);
+  }
+
+  a:hover #past {
+     background-color: rgba(234, 184, 98, 0.7);
+     width: 200px;
+     height: 200px;
+     padding-top: 25px;
+     padding-left: 75px;
+     padding-bottom: 25px;
+  }
+
+  a:hover #present {
+    background-color: rgba(235, 61, 171, 0.7);
+    width: 200px;
+    height: 200px;
+  }
+
+  a:hover #future {
+     background-color: rgba(38, 54, 232, 0.7);
+     width: 200px;
+     height: 200px;
+  }
+
+  a:hover #sources {
+     background-color: rgba(99, 17, 166, 0.7);
+     width: 100px;
+     height: 100px;
   }
 
 /*---end NAV----*/
