@@ -220,21 +220,27 @@ section {
     background-color: rgba(234, 185, 98, 0.3);
     width: 200px;
     height: 200px;
-    margin: 25px, 0, 25px, 85px;
+    padding-top: 25px;
+    padding-left: 75px;
+    padding-bottom: 25px;
   }
 
   #present {
     background-color: rgba(235, 61, 171, 0.3);
     width: 200px;
     height: 200px;
-    margin: 25px, 0, 25px, 85px;
+    padding-top: 25px;
+    padding-left: 75px;
+    padding-bottom: 25px;
   }
 
   #future {
     background-color: rgba(38, 54, 232, 0.3);
     width: 200px;
     height: 200px;
-    margin: 25px, 0, 25px, 85px;
+    padding-top: 25px;
+    padding-left: 75px;
+    padding-bottom: 25px;
   }
 
   #sources {
@@ -245,7 +251,9 @@ section {
      background-color: rgba(234, 184, 98, 0.7);
      width: 200px;
      height: 200px;
-     margin: 25px, 0, 25px, 75px;
+     padding-top: 25px;
+     padding-left: 75px;
+     padding-bottom: 25px;
   }
 
   a:hover #present {
