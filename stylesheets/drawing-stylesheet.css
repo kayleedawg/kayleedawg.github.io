@@ -170,7 +170,7 @@ section {
   margin-right: -4px;
 }
 
-p {
+.button p {
   top: 0;
   margin-left: 85px;
   position: absolute;
@@ -188,7 +188,7 @@ p {
   margin-right: -4px;
 }
 
-.button4 p {
+p {
   margin-top: 50px;
   margin-left: 700px;
   position: absolute;
