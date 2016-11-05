@@ -170,10 +170,9 @@ section {
   margin-right: -4px;
 }
 
-.button p {
+p {
   top: 0;
-  padding-left: 85px;
-  margin: 0;
+  margin-left: 85px;
   position: absolute;
   text-align: center;
   line-height: 300px;
