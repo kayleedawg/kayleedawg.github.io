@@ -306,6 +306,7 @@ footer {
 }
 
 h2 a {
+  margin-left: 10px;
   font-size: 17px;
   text-decoration: none;
   color: black;
