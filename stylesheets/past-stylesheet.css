@@ -186,24 +186,6 @@ nav p {
   color: black;
 }
 
-.button-source {
-  display: inline-block;
-  position: relative;
-  margin-right: -4px;
-}
-
-.button-source p {
-  margin-top: 50px;
-  margin-left: 750px;
-  position: absolute;
-  text-align: center;
-  line-height: 50px;
-  font-family: 'Itim', cursive;
-  font-size: 21px;
-  font-weight: bold;
-  color: black;
-}
-
 .button img {
   width: 100px;
   height: 100px;
@@ -212,14 +194,6 @@ nav p {
   margin-bottom: 5px;
   opacity: 0.3;
 }
-
-.button-source img {
-    margin-left: 750px;
-    margin-top: 50px;
-    width: 100px;
-    height: 100px;
-    opacity: 0.3;
-  }
 
   #past {
     background-color: rgba(234, 185, 98, 0.3);
@@ -256,8 +230,9 @@ nav p {
     width: 100px;
     height: 100px;
     padding: 0;
-    margin-left: 750px;
-    margin-top: 50px;
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-bottom: 5px;
   }
 
   a:hover #past {
@@ -295,8 +270,9 @@ nav p {
      width: 100px;
      height: 100px;
      padding: 0;
-     margin-left: 750px;
-     margin-top: 50px;
+     margin-top: 10px;
+     margin-left: 150px;
+     margin-bottom: 5px;
   }
 
 /*---end NAV----*/
