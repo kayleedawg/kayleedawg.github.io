@@ -279,7 +279,6 @@ nav p {
 
 /*----ARTICLES STYLE---*/
 article {
-  display: inline-block;
   float: center;
   width: 590px;
   padding-left: 160px;
@@ -300,7 +299,6 @@ article p {
 }
 
 article img {
-  display: inline-block;
   width: 230px;
   height: 200px;
   margin: 5px;
