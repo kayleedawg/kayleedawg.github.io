@@ -186,15 +186,18 @@ section {
 }
 
 .button4 p {
-    padding-left: 600px;
-    margin: 0;
-    position: absolute;
-    text-align: center;
-    line-height: 50px;
-    font-family: helvetica;
-    font-size: 21px;
-    font-weight: bold;
-    color: black;
+  top: 0;
+  padding-left: 600px;
+  margin: 0;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  text-align: center;
+  line-height: 50px;
+  font-family: helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  color: black;
 }
 
 .button img {
@@ -208,7 +211,7 @@ section {
 
 .button4 img {
     padding-left: 600px;
-    margin: 0;
+    margin: 10px;
     width: 100px;
     height: 100px;
   }
@@ -255,12 +258,12 @@ a:hover #sources {
 
 /*----FOOTER STYLE----*/
 footer {
+  display: block;
   clear: both;
   background-color: white;
   padding: 25px;
   height: 150px;
 }
-
 
 h4 a {
   text-decoration: none;
