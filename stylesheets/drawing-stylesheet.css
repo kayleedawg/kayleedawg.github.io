@@ -194,27 +194,27 @@ section {
 }
 
 #past {
-  background-color: rgba();
+  background-color: rgba(183, 117, 56, 0.4);
 }
 
 #present {
-  background-color: rgba();
+  background-color: rgba(173, 40, 140, 0.3);
 }
 
 #future {
-  background-color: rgba();
+  background-color: rgba(40, 73, 173, 0.3);
 }
 
 a:hover #past{
-   background-color: rgba();
+   background-color: rgba(183, 117, 56, .8);
 }
 
 a:hover #present {
-  background-color: rgba();
+  background-color: rgba(173, 40, 140, 0.5);
 }
 
 a:hover #future {
-   background-color: rgba();
+   background-color: rgba(40, 73, 173, 0.6);
 }
 
 /*---end NAV----*/
