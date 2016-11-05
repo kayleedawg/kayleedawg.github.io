@@ -228,7 +228,7 @@ section {
   background-color: rgba(99, 17, 166, 0.3);
 }
 
-a:hover #past{
+a:hover #past {
    background-color: rgba(234, 184, 98, 0.7);
    width: 200px;
    height: 200px;
@@ -256,6 +256,7 @@ footer {
   clear: both;
   background-color: white;
   padding: 25px;
+  height: 150px;
 }
 
 
