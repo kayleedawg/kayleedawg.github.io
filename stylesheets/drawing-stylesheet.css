@@ -170,6 +170,33 @@ section {
   margin-right: -4px;
 }
 
+.button p {
+  top: 0;
+  padding-left: 85px;
+  margin: 0;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  text-align: center;
+  line-height: 300px;
+  font-family: helvetica;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+}
+
+.button4 p {
+    padding-left: 600px;
+    margin: 0;
+    position: absolute;
+    text-align: center;
+    line-height: 50px;
+    font-family: helvetica;
+    font-size: 21px;
+    font-weight: bold;
+    color: black;
+}
+
 .button img {
   width: 200px;
   height: 200px;
@@ -187,63 +214,18 @@ section {
   }
 
 #past {
-  top: 0;
-  padding-left: 85px;
-  margin: 0;
-  width: 200px;
-  height: 200px;
-  position: absolute;
-  text-align: center;
-  line-height: 300px;
-  font-family: helvetica;
-  font-size: 30px;
-  font-weight: bold;
-  color: black;
   background-color: rgba(234, 185, 98, 0.3);
 }
 
 #present {
-  top: 0;
-  padding-left: 85px;
-  margin: 0;
-  width: 200px;
-  height: 200px;
-  position: absolute;
-  text-align: center;
-  line-height: 300px;
-  font-family: helvetica;
-  font-size: 30px;
-  font-weight: bold;
-  color: black;
   background-color: rgba(235, 61, 171, 0.3);
 }
 
 #future {
-  top: 0;
-  padding-left: 85px;
-  margin: 0;
-  width: 200px;
-  height: 200px;
-  position: absolute;
-  text-align: center;
-  line-height: 300px;
-  font-family: helvetica;
-  font-size: 30px;
-  font-weight: bold;
-  color: black;
   background-color: rgba(38, 54, 232, 0.3);
 }
 
 #sources {
-  padding-left: 600px;
-  margin: 0;
-  position: absolute;
-  text-align: center;
-  line-height: 50px;
-  font-family: helvetica;
-  font-size: 21px;
-  font-weight: bold;
-  color: black;
   background-color: rgba(99, 17, 166, 0.3);
 }
 
