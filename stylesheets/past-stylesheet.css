@@ -281,7 +281,7 @@ nav p {
 article {
   float: center;
   width: 590px;
-  padding-left: 50px;
+  padding-left: 150px;
 }
 
 h1 {
@@ -296,6 +296,11 @@ article p {
   font-size: 21px;
   color: black;
   padding-bottom: 15px;
+}
+
+article img {
+  width: 200px;
+  height: 200px;
 }
 
 
