@@ -212,6 +212,22 @@ section {
   height: 200px;
 }
 
+#sources {
+  top: 0;
+  padding-left: 600px;
+  margin: 0;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  text-align: center;
+  line-height: 50px;
+  font-family: helvetica;
+  font-size: 21px;
+  font-weight: bold;
+  color: black;
+  background-color: rgba(99, 17, 166, 0.3);
+}
+
 a:hover #past{
    background-color: rgba(234, 184, 98, 0.7);
    width: 200px;
@@ -229,39 +245,19 @@ a:hover #future {
    height: 200px;
 }
 
+a:hover #sources {
+   background-color: rgba(99, 17, 166, 0.7);
+}
+
 /*---end NAV----*/
 
 /*----FOOTER STYLE----*/
 footer {
   clear: both;
   background-color: white;
-  padding: 5px;
+  padding: 25px;
 }
 
-footer .button {
-  width: 50px;
-  height: 50px;
-}
-
-#sources {
-  top: 0;
-  padding-left: 600px;
-  margin: 0;
-  width: 50px;
-  height: 50px;
-  position: absolute;
-  text-align: center;
-  line-height: 50px;
-  font-family: helvetica;
-  font-size: 21px;
-  font-weight: bold;
-  color: black;
-  background-color: rgba(99, 17, 166, 0.3);
-}
-
-a:hover #sources {
-   background-color: rgba(99, 17, 166, 0.7);
-}
 
 h4 a {
   text-decoration: none;
