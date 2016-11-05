@@ -164,13 +164,13 @@ section {
 /*----end MAIN-----*/
 
 /*----NAV STYLES---*/
-.button1, .button2, .button3, .button4 {
+#button1, #button2, #button3, #button4 {
   display: inline-block;
   position: relative;
   margin-right: -4px;
 }
 
-.button1, .button2, .button3 p {
+#button1, #button2, #button3 p {
   top: 0;
   padding-left: 85px;
   margin: 0;
@@ -185,7 +185,7 @@ section {
   color: black;
 }
 
-.button4 p {
+#button4 p {
   top: 0;
   padding-left: 600px;
   margin: 0;
@@ -200,7 +200,7 @@ section {
   color: black;
 }
 
-.button1, .button2, .button3 img {
+#button1, #button2, #button3 img {
   width: 200px;
   height: 200px;
   padding-top: 25px;
@@ -209,48 +209,48 @@ section {
   margin: 10px;
 }
 
-.button4 img {
+#button4 img {
     padding-left: 600px;
     margin: 10px;
     width: 100px;
     height: 100px;
   }
 
-.button1 {
+#button1 {
   background-color: rgba(234, 185, 98, 0.3);
 }
 
-.button2 {
+#button2 {
   background-color: rgba(235, 61, 171, 0.3);
 }
 
-.button3 {
+#button3 {
   background-color: rgba(38, 54, 232, 0.3);
 }
 
-.button4 {
+#button4 {
   background-color: rgba(99, 17, 166, 0.3);
 }
 
-a:hover .button1 {
+a:hover #button1 {
    background-color: rgba(234, 184, 98, 0.7);
    width: 200px;
    height: 200px;
 }
 
-a:hover .button2 {
+a:hover #button2 {
   background-color: rgba(235, 61, 171, 0.7);
   width: 200px;
   height: 200px;
 }
 
-a:hover .button3 {
+a:hover #button3 {
    background-color: rgba(38, 54, 232, 0.7);
    width: 200px;
    height: 200px;
 }
 
-a:hover .button4 {
+a:hover #button4 {
    background-color: rgba(99, 17, 166, 0.7);
 }
 
