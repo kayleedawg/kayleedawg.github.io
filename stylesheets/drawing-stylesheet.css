@@ -195,27 +195,27 @@ section {
 }
 
 #past {
-  background-color: rgba(66, 149, 204, .8);
+  background-color: rgba(234, 185, 98, 0.3);
 }
 
 #present {
-  background-color: rgba(173, 40, 140, 0.3);
+  background-color: rgba(235, 61, 171, 0.3);
 }
 
 #future {
-  background-color: rgba(40, 73, 173, 0.3);
+  background-color: rgba(38, 54, 232, 0.3);
 }
 
 a:hover #past{
-   background-color: rgba(183, 117, 56, .8);
+   background-color: rgba(234, 184, 98, 0.7);
 }
 
 a:hover #present {
-  background-color: rgba(173, 40, 140, 0.5);
+  background-color: rgba(235, 61, 171, 0.7);
 }
 
 a:hover #future {
-   background-color: rgba(40, 73, 173, 0.6);
+   background-color: rgba(38, 54, 232, 0.7);
 }
 
 /*---end NAV----*/
