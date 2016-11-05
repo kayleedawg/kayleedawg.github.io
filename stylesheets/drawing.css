@@ -46,27 +46,18 @@ p {
   background-color: rgba(35, 104, 86, .8);
   width: 200px;
   height: 200px;
-  padding-top: 25px;
-  padding-bottom: 25px;
-  margin: 10px;
 }
 
 #present {
   background-color: rgba(66, 149, 204, .8);
   width: 200px;
   height: 200px;
-  padding-top: 25px;
-  padding-bottom: 25px;
-  margin: 10px;
 }
 
 #future {
   background-color: rgba(185, 66, 204, .8);
   width: 200px;
   height: 200px;
-  padding-top: 25px;
-  padding-bottom: 25px;
-  margin: 10px;
 }
 
 a:hover #past{
