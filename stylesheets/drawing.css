@@ -44,6 +44,12 @@ p {
 
 #past {
   background-color: rgba(35, 104, 86, .8);
+  width: 200px;
+  height: 200px;
+  padding-top: 25px;
+  padding-left: 75px;
+  padding-bottom: 25px;
+  margin: 10px;
 }
 
 #present {
