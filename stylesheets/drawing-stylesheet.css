@@ -198,60 +198,35 @@ section {
   background-color: rgba(234, 185, 98, 0.3);
   width: 200px;
   height: 200px;
-  padding-top: 25px;
-  padding-left: 75px;
-  padding-bottom: 25px;
-  margin: 10px;
 }
 
 #present {
   background-color: rgba(235, 61, 171, 0.3);
   width: 200px;
   height: 200px;
-  padding-top: 25px;
-  padding-left: 75px;
-  padding-bottom: 25px;
-  margin: 10px;
 }
 
 #future {
   background-color: rgba(38, 54, 232, 0.3);
   width: 200px;
   height: 200px;
-  padding-top: 25px;
-  padding-left: 75px;
-  padding-bottom: 25px;
-  margin: 10px;
 }
 
 a:hover #past{
    background-color: rgba(234, 184, 98, 0.7);
    width: 200px;
    height: 200px;
-   padding-top: 25px;
-   padding-left: 75px;
-   padding-bottom: 25px;
-   margin: 10px;
-}
 
 a:hover #present {
   background-color: rgba(235, 61, 171, 0.7);
   width: 200px;
   height: 200px;
-  padding-top: 25px;
-  padding-left: 75px;
-  padding-bottom: 25px;
-  margin: 10px;
 }
 
 a:hover #future {
    background-color: rgba(38, 54, 232, 0.7);
    width: 200px;
    height: 200px;
-   padding-top: 25px;
-   padding-left: 75px;
-   padding-bottom: 25px;
-   margin: 10px;
 }
 
 /*---end NAV----*/
@@ -266,10 +241,6 @@ footer {
 footer .button {
   width: 50px;
   height: 50px;
-  padding-top: 10px;
-  padding-left: 600px;
-  padding-bottom: 25px;
-  margin: 5px;
 }
 
 #sources {
@@ -290,12 +261,6 @@ footer .button {
 
 a:hover #sources {
    background-color: rgba(99, 17, 166, 0.7);
-   width: 200px;
-   height: 200px;
-   padding-top: 25px;
-   padding-left: 75px;
-   padding-bottom: 25px;
-   margin: 10px;
 }
 
 h4 a {
