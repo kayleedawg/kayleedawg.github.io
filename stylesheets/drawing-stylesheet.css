@@ -173,11 +173,10 @@ section {
 p {
   top: 0;
   margin-left: 85px;
-  position: absolute;
   text-align: center;
   line-height: 300px;
   font-family: 'Crete Round', serif;
-  font-size: 30px;
+  font-size: 40px;
   font-weight: bold;
   color: black;
 }
@@ -191,11 +190,10 @@ p {
 .button-source p {
   margin-top: 50px;
   margin-left: 700px;
-  position: absolute;
   text-align: center;
   line-height: 50px;
   font-family: 'Crete Round', serif;
-  font-size: 21px;
+  font-size: 23px;
   font-weight: bold;
   color: black;
 }
