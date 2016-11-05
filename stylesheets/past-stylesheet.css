@@ -279,7 +279,7 @@ nav p {
 
 /*----ARTICLES STYLE---*/
 article {
-  display: block;
+  display: inline-block;
   float: center;
   width: 590px;
 }
@@ -291,6 +291,10 @@ h1 {
   color: black;
 }
 
+h3 {
+  width: 370px;
+}
+
 article p {
   font-family: 'Itim', cursive;
   font-size: 21px;
@@ -298,9 +302,9 @@ article p {
   padding-bottom: 15px;
 }
 
-article h3 {
-  display: block;
-  width: 370px;
+h3 img {
+  display: inline-block;
+  width: 230px;
   height: 200px;
   margin: 5px;
   padding-left: 15px;
