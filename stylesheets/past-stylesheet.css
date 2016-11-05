@@ -164,6 +164,12 @@ section {
 /*----end MAIN-----*/
 
 /*----NAV STYLES---*/
+#home {
+  display: inline-block;
+  position: relative;
+  margin-left: 25px;
+}
+
 .button {
   display: inline-block;
   position: relative;
