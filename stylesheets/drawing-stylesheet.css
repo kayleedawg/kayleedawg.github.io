@@ -305,13 +305,13 @@ footer {
   height: 50px;
 }
 
-h4 a {
+h2 a {
   text-decoration: none;
   color: black;
   font-family: 'Itim', cursive;
 }
 
-h4 a:hover {
+h2 a:hover {
   color: #5C5757;
 }
 
