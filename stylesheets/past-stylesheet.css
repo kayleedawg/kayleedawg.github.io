@@ -281,8 +281,9 @@ nav p {
 /*----ARTICLES STYLE---*/
 article {
   float: center;
-  width: 615px;
-  padding-left: 160px;
+  width: 650px;
+  margin-left: 155px;
+  margin-right: 155px;
 }
 
 h1 {
