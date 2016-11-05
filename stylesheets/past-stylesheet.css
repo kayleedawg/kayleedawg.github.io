@@ -303,7 +303,7 @@ article p {
   display: table-cell;
   background-color: white;
 
-p img {
+.column img {
   width: 200px;
   height: 200px;
 }
