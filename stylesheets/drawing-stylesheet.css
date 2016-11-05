@@ -186,7 +186,7 @@ section {
 }
 
 .button4 p {
-  padding-top: 400px;
+  padding-top: 300px;
   padding-left: 600px;
   margin: 0;
   width: 100px;
@@ -211,7 +211,7 @@ section {
 
 .button4 img {
     padding-left: 600px;
-    padding-top: 400px;
+    padding-top: 300px;
     margin: 10px;
     width: 100px;
     height: 100px;
@@ -253,6 +253,8 @@ a:hover #future {
 
 a:hover #sources {
    background-color: rgba(99, 17, 166, 0.7);
+   width: 100px;
+   height: 100px;
 }
 
 /*---end NAV----*/
@@ -260,7 +262,6 @@ a:hover #sources {
 /*----FOOTER STYLE----*/
 footer {
   display: block;
-  clear: both;
   background-color: white;
   padding: 25px;
   height: 150px;
