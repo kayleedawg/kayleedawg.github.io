@@ -165,7 +165,7 @@ section {
 #home {
   display: inline-block;
   position: relative;
-  margin-left: 35px;
+  margin-left: 50px;
 }
 
 .button {
@@ -207,7 +207,7 @@ nav p {
 .button img {
   width: 100px;
   height: 100px;
-  margin-top: 25px;
+  margin-top: 10px;
   margin-left: 150px;
   margin-bottom: 5px;
   opacity: 0.3;
@@ -226,7 +226,7 @@ nav p {
     width: 100px;
     height: 100px;
     padding: 0;
-    margin-top: 25px;
+    margin-top: 10px;
     margin-left: 150px;
     margin-bottom: 5px;
   }
@@ -236,7 +236,7 @@ nav p {
     width: 100px;
     height: 100px;
     padding: 0;
-    margin-top: 25px;
+    margin-top: 10px;
     margin-left: 150px;
     margin-bottom: 5px;
   }
@@ -246,7 +246,7 @@ nav p {
     width: 100px;
     height: 100px;
     padding: 0;
-    margin-top: 25px;
+    margin-top: 10px;
     margin-left: 150px;
     margin-bottom: 5px;
   }
@@ -265,7 +265,7 @@ nav p {
      width: 100px;
      height: 100px;
      padding: 0;
-     margin-top: 25px;
+     margin-top: 10px;
      margin-left: 150px;
      margin-bottom: 5px;
   }
@@ -275,7 +275,7 @@ nav p {
     width: 100px;
     height: 100px;
     padding: 0;
-    margin-top: 25px;
+    margin-top: 10px;
     margin-left: 150px;
     margin-bottom: 5px;
   }
@@ -285,7 +285,7 @@ nav p {
      width: 100px;
      height: 100px;
      padding: 0;
-     margin-top: 25px;
+     margin-top: 10px;
      margin-left: 150px;
      margin-bottom: 5px;
   }
