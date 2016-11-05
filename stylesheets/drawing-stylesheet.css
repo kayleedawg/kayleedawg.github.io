@@ -176,7 +176,7 @@ p {
   position: absolute;
   text-align: center;
   line-height: 300px;
-  font-family: helvetica;
+  font-family: 'Crete Round', serif;
   font-size: 30px;
   font-weight: bold;
   color: black;
@@ -194,7 +194,7 @@ p {
   position: absolute;
   text-align: center;
   line-height: 50px;
-  font-family: helvetica;
+  font-family: 'Crete Round', serif;
   font-size: 21px;
   font-weight: bold;
   color: black;
