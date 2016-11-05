@@ -196,14 +196,32 @@ section {
 
 #past {
   background-color: rgba(234, 185, 98, 0.3);
+  width: 200px;
+  height: 200px;
+  padding-top: 25px;
+  padding-left: 75px;
+  padding-bottom: 25px;
+  margin: 10px;
 }
 
 #present {
   background-color: rgba(235, 61, 171, 0.3);
+  width: 200px;
+  height: 200px;
+  padding-top: 25px;
+  padding-left: 75px;
+  padding-bottom: 25px;
+  margin: 10px;
 }
 
 #future {
   background-color: rgba(38, 54, 232, 0.3);
+  width: 200px;
+  height: 200px;
+  padding-top: 25px;
+  padding-left: 75px;
+  padding-bottom: 25px;
+  margin: 10px;
 }
 
 a:hover #past{
@@ -240,11 +258,12 @@ footer {
   font-size: 21px;
   font-weight: bold;
   color: black;
-  background-color: rgba();
+  background-color: rgba(99, 17, 166, 0.3);
 }
 
-a:hover #sources{
-   background-color: rgba();
+a:hover #sources {
+
+   background-color: rgba(99, 17, 166, 0.7);
 }
 
 h4 a {
