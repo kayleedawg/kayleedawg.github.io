@@ -301,9 +301,10 @@ article p {
 }
 
 article img {
-  width: 190px;
+  width: 200px;
   height: 180px;
   margin-right: 5px;
+  margin-top: 10px;
   padding-left: 15px;
 }
 
