@@ -188,8 +188,8 @@ p {
   margin-right: -4px;
 }
 
-.button-source p {
-  margin-top: 50px;
+.button-source #sources {
+  margin-top: 100px;
   margin-left: 750px;
   position: absolute;
   text-align: center;
@@ -211,7 +211,7 @@ p {
 
 .button-source img {
     margin-left: 750px;
-    margin-top: 50px;
+    margin-top: 100px;
     width: 100px;
     height: 100px;
     opacity: 0.3;
