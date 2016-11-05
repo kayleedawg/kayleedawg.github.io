@@ -302,6 +302,12 @@ nav p {
 /*---end NAV----*/
 
 /*----ARTICLES STYLE---*/
+article {
+  float: center;
+  width: 590px;
+  padding: 25px;
+}
+
 h1 {
   font-family: 'Itim', cursive;
   font-size: 15px;
