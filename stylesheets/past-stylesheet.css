@@ -314,6 +314,8 @@ footer {
   display: block;
   background-color: #E2E3E3;
   height: 73px;
+  padding: 15px;
+  margin-right: 10px;
 }
 
 h2 a {
