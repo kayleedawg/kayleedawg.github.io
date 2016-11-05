@@ -188,7 +188,7 @@ p {
   margin-right: -4px;
 }
 
-.button-source #sources {
+#sources p {
   margin-top: 100px;
   margin-left: 750px;
   position: absolute;
