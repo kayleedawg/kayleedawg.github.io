@@ -189,7 +189,7 @@ p {
 }
 
 .button-source p {
-  margin-top: 150px;
+  margin-top: 50px;
   margin-left: 750px;
   position: absolute;
   text-align: center;
@@ -211,7 +211,7 @@ p {
 
 .button-source img {
     margin-left: 750px;
-    margin-top: 150px;
+    margin-top: 50px;
     width: 100px;
     height: 100px;
     opacity: 0.3;
@@ -253,7 +253,7 @@ p {
     height: 100px;
     padding: 0;
     margin-left: 750px;
-    margin-top: 150px;
+    margin-top: 50px;
   }
 
   a:hover #past {
@@ -292,7 +292,7 @@ p {
      height: 100px;
      padding: 0;
      margin-left: 750px;
-     margin-top: 150px;
+     margin-top: 50px;
   }
 
 /*---end NAV----*/
