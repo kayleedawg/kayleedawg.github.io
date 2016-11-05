@@ -151,8 +151,6 @@ table {
 
 /*----MAIN STYLES----*/
 body {
-  font-family: Arial, sans-serif;
-  color: darkblue;
   background-color: #5C5757;
 }
 
@@ -176,7 +174,7 @@ section {
   margin-right: -4px;
 }
 
-p {
+nav p {
   top: 0;
   margin-left: 95px;
   position: absolute;
@@ -302,6 +300,20 @@ p {
   }
 
 /*---end NAV----*/
+
+/*----ARTICLES STYLE---*/
+h1 {
+  font-family: 'Itim', cursive;
+  font-size: 15px;
+  font-weight: bold;
+  color: darkgrey;
+}
+
+article p {
+  font-family: 'Itim', cursive;
+  font-size: 21px;
+  color: black;
+}
 
 /*----FOOTER STYLE----*/
 footer {
