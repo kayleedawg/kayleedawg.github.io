@@ -313,13 +313,13 @@ article img {
 footer {
   display: block;
   background-color: #E2E3E3;
-  height: 73px;
-  padding: 15px;
-  margin-right: 10px;
+  width: 960px;
+  height: 50px;
 }
 
 h2 a {
-  font-size: 13px;
+  margin-left: 10px;
+  font-size: 17px;
   text-decoration: none;
   color: black;
   font-family: 'Itim', cursive;
