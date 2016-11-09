@@ -47,3 +47,19 @@ table {
 }
 
 /* end css reset */
+
+.page {
+  background: #fff;
+  display: table;
+  width: 800px;
+  margin: auto;
+  max-width: 1024px;
+}
+
+h1 {
+  font-family: 'Corben', cursive;
+}
+
+h2 {
+  font-family: 'Corben', cursive;
+}
