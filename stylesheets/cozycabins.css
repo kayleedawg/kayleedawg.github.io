@@ -49,8 +49,6 @@ table {
 /* end css reset */
 
 .page {
-  background: #fff;
-  display: table;
   width: 800px;
   margin: auto;
   max-width: 1024px;
@@ -62,10 +60,12 @@ header img{
 }
 
 h1 {
+  font-size: 23px;
   font-family: 'Corben', cursive;
 }
 
 h2 {
+  font-size: 64px;
   font-family: 'Corben', cursive;
 }
 
