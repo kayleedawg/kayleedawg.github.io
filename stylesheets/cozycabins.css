@@ -72,6 +72,10 @@ header {
 
 /*main*/
 
+@media (max-width: 480px) {
+
+}
+
 h1 {
   font-weight: 700;
   font-family: 'Corben', cursive;
@@ -84,9 +88,14 @@ p {
 }
 
 .logo {
-  width: 256px;
+  width: 128px;
 }
 
 .menu {
   width: 43px;
+}
+
+main {
+  width: 90%;
+  margin: auto;
 }
