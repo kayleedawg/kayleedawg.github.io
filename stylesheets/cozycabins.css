@@ -66,12 +66,6 @@ h1 {
 
 nav {
   display: none;
-  width: 1024px;
+  width: 800px;
   margin: auto;
-}
-
-nav li {
-  display: none;
-  width: 220px;
-  text-align: center;
 }
