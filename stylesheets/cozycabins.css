@@ -48,11 +48,15 @@ table {
 
 /* end css reset */
 
+/*structure*/
+
 .page {
   width: 1024px;
   margin: auto;
   max-width: 1024px;
 }
+
+/*header*/
 
 header img{
   margin-top: 20px;
@@ -60,14 +64,18 @@ header img{
   height: 150px;
 }
 
-h1 {
-  font-size: 64px;
-  font-family: 'Corben', cursive;
-}
+/*nav*/
 
 nav {
   display: none;
   width: 800px;
   margin: auto;
   font-family: 'Montserrat', sans-serif;
+}
+
+/*article*/
+
+h1 {
+  font-size: 64px;
+  font-family: 'Corben', cursive;
 }
