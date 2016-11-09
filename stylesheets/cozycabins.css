@@ -69,14 +69,6 @@ header {
   height: 300px;
 }
 
-/*nav*/
-
-nav {
-  display: none;
-  width: 800px;
-  margin: auto;
-  font-family: 'Montserrat', sans-serif;
-}
 
 /*main*/
 
@@ -87,10 +79,11 @@ h1 {
 
 p {
   font-family: 'Montserrat', sans-serif;
+  font-size: .6em;
 }
 
 .logo {
-  width:256px;
+  width: 256px;
 }
 
 .menu {
