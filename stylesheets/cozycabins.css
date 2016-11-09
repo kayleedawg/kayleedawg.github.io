@@ -58,14 +58,13 @@ table {
 
 body {
   background-image: url(images/cc-bg.jpg);
-} 
+}
 
 /*header*/
 
-header img{
-  margin-top: 20px;
-  width: 150px;
-  height: 150px;
+header {
+  width: 100%;
+  height: 1300px;
 }
 
 /*nav*/
@@ -82,4 +81,8 @@ nav {
 h1 {
   font-size: 64px;
   font-family: 'Corben', cursive;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
 }
