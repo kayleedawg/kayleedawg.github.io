@@ -73,8 +73,9 @@ header {
 /*main*/
 
 h1 {
-  font-size: 64px;
+  font-weight: 700;
   font-family: 'Corben', cursive;
+  font-size: 2.375em;
 }
 
 p {
@@ -87,5 +88,5 @@ p {
 }
 
 .menu {
-  width: 85px;
+  width: 43px;
 }
