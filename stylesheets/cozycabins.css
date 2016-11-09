@@ -57,7 +57,9 @@ table {
 }
 
 body {
-  background-image: url(images/cc-bg.jpg);
+  line-height: 1;
+  background-image: url("images/cc-mobile-bg.jpg");
+  background-size: cover;
 }
 
 /*header*/
