@@ -70,10 +70,9 @@ body {
 }
 
 /*header*/
-
-header img {
-  width: 100px;
-  height: 100px;
+img {
+  width: 100%;
+  line-height: 50px;
 }
 
 /*article*/
