@@ -53,6 +53,9 @@ table {
 .page {
   background-image: url("images/cc-bg.jpg");
   background-size: cover;
+  width: 1024px;
+  margin: auto;
+  max-width: 1024px;
 }
 
 @media (max width: 1024px) {
@@ -67,6 +70,12 @@ table {
   padding-left: 20%;
 }
 
+/*header*/
+
+header img {
+  width: 100px;
+  height: 100px;
+}
 
 /*article*/
 
