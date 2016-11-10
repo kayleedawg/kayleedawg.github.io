@@ -87,7 +87,7 @@ img {
 h1 {
   font-weight: 700;
   font-family: 'Corben', cursive;
-  font-size: 2.375em;
+  font-size: 1.5em;
 }
 
 p {
@@ -100,4 +100,7 @@ nav {
   display: none;
   font-family: 'Montserrat', sans-serif;
   font-size: .6em;
+  list-style: none;
+  margin: auto;
+  text-decoration: none;
 }
