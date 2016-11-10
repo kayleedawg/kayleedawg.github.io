@@ -71,8 +71,9 @@ body {
 
 /*header*/
 
-.logo {
+header img {
   width: 100px;
+  height: 100px;
 }
 
 /*article*/
