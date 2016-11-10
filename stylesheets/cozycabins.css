@@ -94,3 +94,10 @@ p {
   font-family: 'Montserrat', sans-serif;
   font-size: .6em;
 }
+
+/*nav*/
+nav {
+  display: none;
+  font-family: 'Montserrat', sans-serif;
+  font-size: .6em;
+}
