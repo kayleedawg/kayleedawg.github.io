@@ -58,8 +58,9 @@ body {
   max-width: 1024px;
 }
 
-@media (max width: 1024px) {
-  .page {
+@media (max width: 320px) {
+  body {
+  background image: url("images/cc-mobile-bg.jpg");
     width: 100%;
   }
 }
@@ -77,7 +78,7 @@ img {
 
 /*article*/
 
-@media (max-width: 480px) {
+@media (max-width: 320px) {
   .col {
     width: 100%;
     display: block;

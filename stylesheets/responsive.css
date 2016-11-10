@@ -100,7 +100,7 @@ h1 {
   font-weight: 700;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 320px) {
   .col {
     width: 100%;
     display: block;
