@@ -96,7 +96,7 @@ p {
 }
 
 /*nav*/
-nav {
+nav ul {
   display: none;
   font-family: 'Montserrat', sans-serif;
   font-size: .6em;
