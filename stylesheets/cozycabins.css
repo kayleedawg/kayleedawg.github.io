@@ -160,9 +160,14 @@ header img {
   width: 200px;
   height: 200px;
   margin-top: 20px;
+  margin-left: 25px;
 }
 
 /*article*/
+
+article {
+  margin-left: 50px;
+}
 
 @media (max-width: 320px) {
   .col {
@@ -187,11 +192,8 @@ p {
 li {
   display: none;
   margin: auto;
-}
-
-h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: .6em;
   text-decoration: none;
-  color: black;
+  color: white;
 }
