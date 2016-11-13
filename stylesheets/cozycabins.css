@@ -64,7 +64,7 @@ body {
 }
 
 /*header*/
-header img {
+img {
   width: 300px;
   height: 300px;
 }
@@ -81,12 +81,12 @@ header img {
 h1 {
   font-weight: 700;
   font-family: 'Corben', cursive;
-  font-size: 1.5em;
+  font-size: 4em;
 }
 
 p {
   font-family: 'Montserrat', sans-serif;
-  font-size: .6em;
+  font-size: 1.3em;
 }
 
 /*nav*/
@@ -96,5 +96,5 @@ li {
   font-family: 'Montserrat', sans-serif;
   font-size: .6em;
   text-decoration: none;
-  color: white;
+  color: black;
 }
