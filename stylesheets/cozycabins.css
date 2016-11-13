@@ -69,9 +69,9 @@ article {
 }
 
 /*header*/
-img {
-  width: 100%;
-  line-height: 50px;
+header img {
+  width: 100px;
+  height: 100px;
 }
 
 /*article*/
@@ -98,9 +98,6 @@ p {
 li {
   display: none;
   margin: auto;
-}
-
-h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: .6em;
   text-decoration: none;
