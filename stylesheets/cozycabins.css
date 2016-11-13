@@ -139,11 +139,12 @@ table {
 
 /*structure*/
 
-body {
+body .background {
   background-image: url("images/cc-bg.jpg");
   background-size: cover;
   width: 1024px;
   margin: auto;
+  max-width: 1024px:
 
 }
 
