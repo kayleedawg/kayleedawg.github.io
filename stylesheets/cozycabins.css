@@ -166,7 +166,9 @@ header img {
 /*article*/
 
 article {
-  margin-left: 50px;
+  margin-left: 300px;
+  display: block;
+  width: 250px;
 }
 
 @media (max-width: 320px) {
@@ -189,7 +191,7 @@ p {
 }
 
 /*nav*/
-li {
+nav {
   display: none;
   margin: auto;
   font-family: 'Montserrat', sans-serif;
