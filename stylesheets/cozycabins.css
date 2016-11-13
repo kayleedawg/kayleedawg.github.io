@@ -80,12 +80,13 @@ img {
 h1 {
   font-weight: 700;
   font-family: 'Corben', cursive;
-  font-size: 1.5em;
+  font-size: 4em;
+  margin-bottom: 10px;
 }
 
 p {
   font-family: 'Montserrat', sans-serif;
-  font-size: .6em;
+  font-size: 1em;
 }
 
 /*nav*/
@@ -98,5 +99,5 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: .6em;
   text-decoration: none;
-  color: white;
+  color: black;
 }
