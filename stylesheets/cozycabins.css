@@ -194,7 +194,7 @@ mark {
 }
 
 /*nav*/
-nav {
+li {
   margin: auto;
   font-family: 'Montserrat', sans-serif;
   font-size: .6em;
