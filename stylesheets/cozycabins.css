@@ -82,18 +82,15 @@ h1 {
   font-weight: 700;
   font-family: 'Corben', cursive;
   font-size: 4em;
-  margin-bottom: 10px;
-  margin-left: 25px;
 }
 
 p {
   font-family: 'Montserrat', sans-serif;
   font-size: 1.3em;
-  margin-left: 25px;
 }
 
 /*nav*/
-ul {
+li {
   display: none;
   margin: auto;
   font-family: 'Montserrat', sans-serif;
