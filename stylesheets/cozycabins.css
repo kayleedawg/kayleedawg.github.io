@@ -142,7 +142,7 @@ table {
 body {
   background-image: url("images/cc-bg.jpg");
   background-size: cover;
-  width: 100%;
+  width: 1024px;
   margin: auto;
 
 }
@@ -155,7 +155,7 @@ body {
 }
 
 /*header*/
-img {
+header img {
   width: 200px;
   height: 200px;
   margin-top: 20px;
