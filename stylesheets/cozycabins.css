@@ -168,7 +168,8 @@ header img {
 article {
   margin-left: 350px;
   display: block;
-  width: 500px;
+  width: 700px;
+  line-height: 30px;
 }
 
 mark {
