@@ -165,11 +165,20 @@ header img {
 
 /*article*/
 
+h1 {
+  font-weight: 700;
+  font-family: 'Corben', cursive;
+  font-size: 4em;
+  margin-bottom: 20px;
+}
+
 article {
   margin-left: 350px;
   display: block;
   width: 700px;
   line-height: 30px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
 }
 
 mark {
@@ -181,18 +190,6 @@ mark {
     width: 100%;
     display: block;
   }
-}
-
-h1 {
-  font-weight: 700;
-  font-family: 'Corben', cursive;
-  font-size: 4em;
-  margin-bottom: 10px;
-}
-
-p {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 1em;
 }
 
 /*nav*/
