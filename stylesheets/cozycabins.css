@@ -170,6 +170,7 @@ h1 {
   font-family: 'Corben', cursive;
   font-size: 4em;
   margin-bottom: 20px;
+  color: white;
 }
 
 article {
@@ -180,6 +181,7 @@ article {
   line-height: 30px;
   font-family: 'Montserrat', sans-serif;
   font-size: 1em;
+  color: white;
 }
 
 @media (max-width: 320px) {
@@ -192,8 +194,8 @@ article {
 /*nav*/
 nav {
   margin: auto;
+  color: white;
   font-family: 'Montserrat', sans-serif;
   font-size: 1.5em;
   text-decoration: none;
-  color: white;
 }
