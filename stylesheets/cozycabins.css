@@ -182,10 +182,6 @@ article {
   font-size: 1em;
 }
 
-mark {
-  background-color: lightpink;
-}
-
 @media (max-width: 320px) {
   .col {
     width: 100%;
