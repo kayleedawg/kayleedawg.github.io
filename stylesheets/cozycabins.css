@@ -166,15 +166,15 @@ header img {
 /*article*/
 
 h1 {
-  font-weight: 700;
+  font-weight: 900;
   font-family: 'Corben', cursive;
   font-size: 6em;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   color: white;
 }
 
 article {
-  margin-top: 130px;
+  margin-top: 140px;
   margin-left: 350px;
   display: block;
   width: 700px;
