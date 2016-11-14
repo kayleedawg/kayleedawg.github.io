@@ -166,7 +166,7 @@ header img {
 /*article*/
 
 h1 {
-  font-weight: 900;
+  font-weight: bold;
   font-family: 'Corben', cursive;
   font-size: 6em;
   margin-bottom: 30px;
