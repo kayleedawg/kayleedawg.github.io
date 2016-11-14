@@ -190,10 +190,10 @@ article {
 }
 
 /*nav*/
-li {
+nav {
   margin: auto;
   font-family: 'Montserrat', sans-serif;
-  font-size: .6em;
+  font-size: 1.5em;
   text-decoration: none;
   color: white;
 }
