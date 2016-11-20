@@ -156,14 +156,47 @@ table {
 /*---end STRUCTURE---*/
 
 /*----HEADER---*/
+h1 {
+  font-family: 'Delius Unicase', cursive;
+  font-weight: 700;
+}
 
-/*---end HEADER---*/
+/*---end HEADER--*/
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
 
 /*--NAV---*/
+
+nav {
+  display: table;
+}
+
+ol {
+  display: table-cell;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
 
 /*---end NAV--*/
 
 /*---MAIN--*/
+
+h3 {
+  font-family: 'Delius Unicase', cursive;
+  font-weight: 700;
+}
+
+h4 {
+  font-family: 'Delius Unicase', cursive;
+  font-weight: 400;
+}
+
+p {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
 
 /*--end MAIN--*/
 

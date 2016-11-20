@@ -157,7 +157,17 @@ table {
 
 /*----HEADER---*/
 
+h1 {
+  font-family: 'Delius Unicase', cursive;
+  font-weight: 700;
+}
+
 /*---end HEADER--*/
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
 
 /*--NAV---*/
 
