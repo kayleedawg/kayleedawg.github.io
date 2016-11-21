@@ -151,7 +151,7 @@ body .background {
   max-width: 1024px:
 }
 
-body {
+section {
   width: 900px;
   color: #E3C7C8;
 }
@@ -238,7 +238,7 @@ nav li:nth child(6) {
 }
 
 nav li img {
-  width: 80%;
+  width: 100%;
 }
 
 nav .row1,
