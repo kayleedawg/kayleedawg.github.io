@@ -152,8 +152,9 @@ body .background {
 }
 
 section {
-  width: 900px;
-  color: #E3C7C8;
+  width: 960px;
+  margin: auto;
+  background-color: #E3C7C8;
 }
 
 /*---end STRUCTURE---*/
