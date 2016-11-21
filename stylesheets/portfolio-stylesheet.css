@@ -151,11 +151,6 @@ body .background {
   max-width: 1024px:
 }
 
-section {
-  width: 80%;
-  margin: auto;
-  background-color: #E3C7C8;
-}
 
 /*---end STRUCTURE---*/
 
@@ -239,7 +234,7 @@ nav li:nth child(6) {
 }
 
 nav li img {
-  width: 100%;
+  width: 80%;
 }
 
 nav .row1,
