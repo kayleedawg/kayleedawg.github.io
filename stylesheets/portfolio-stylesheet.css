@@ -144,6 +144,13 @@ table {
   max-width: 1024px;
 }
 
+body .background {
+  background-image: url("images/bkg-desktop.jpg");
+  width: 1024px;
+  margin: auto;
+  max-width: 1024px:
+}
+
 /*---end STRUCTURE---*/
 
 /*----HEADER---*/
