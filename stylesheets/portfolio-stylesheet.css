@@ -139,10 +139,7 @@ table {
 
 /*----STRUCTURE---*/
 
-.page {
-  background: #fff;
-  display: table;
-  width: 800px;
+.wrapper {
   margin: auto;
   max-width: 1024px;
 }
