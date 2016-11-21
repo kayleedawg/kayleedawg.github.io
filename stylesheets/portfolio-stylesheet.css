@@ -253,6 +253,12 @@ nav .row1 li {
     padding-bottom: 5%;
     text-align: center;
   }
+  nav li:nth-child(1),
+  nav li:nth-child(3),
+  nav li:nth-child(4),
+  nav li:nth-child(6) {
+    text-align:center;
+  }
 }
 /*---end MOBILE pic nav---*/
 
