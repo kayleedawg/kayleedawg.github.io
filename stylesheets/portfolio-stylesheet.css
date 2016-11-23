@@ -280,12 +280,14 @@ nav .row1 li {
 
 /*---INTERNAL NAV---*/
 .internal-nav li {
-  text-decoration: none;
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
-  color: black;
 }
 
+.internal-nav li a {
+  text-decoration: none;
+  color: black;
+}
 
 /*---end NAV--*/
 
