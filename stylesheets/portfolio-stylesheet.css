@@ -172,7 +172,7 @@ header {
   width: 19%;
   display: table-cell;
   vertical-align: bottom;
-  margin-left: 15%;
+  margin-left: 3%;
 }
 
 .headline-wrapper {
@@ -195,6 +195,7 @@ h2 {
   font-weight: 300;
   margin-bottom: 1%;
   font-size: 1em;
+  line-height: 1.5em;
 }
 
 h3 {
