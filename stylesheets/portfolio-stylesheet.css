@@ -290,7 +290,7 @@ figure {
 figure img {
   width: 90%;
   display: table-cell;
-  margin-bottom: 15%;
+  margin: 15%;
 }
 
 figcaption {
@@ -309,6 +309,7 @@ figcaption p {
 main h3 {
   font-family: 'Delius Unicase', cursive;
   font-weight: 400;
+  font-size: 2em;
 }
 
 main h4 {
