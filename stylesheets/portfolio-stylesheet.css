@@ -172,6 +172,7 @@ header {
   width: 19%;
   display: table-cell;
   vertical-align: bottom;
+  margin-left: 15%;
 }
 
 .headline-wrapper {
