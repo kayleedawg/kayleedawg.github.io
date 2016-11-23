@@ -374,4 +374,17 @@ footer a {
   color: white;
 }
 
+/*---MOBILE FOOTER---*/
+@media (max-width: 375px) {
+  footer {
+    height: 80px;
+  }
+}
+
+@media (max-width: 375px) {
+  footer p {
+    display: block;
+  }
+}
+
 /*---end FOOTER---*/
