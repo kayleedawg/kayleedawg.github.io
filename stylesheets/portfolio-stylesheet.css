@@ -178,7 +178,7 @@ header {
 .headline-wrapper {
   display: table-cell;
   vertical-align: bottom;
-  padding-left: 5%;
+  padding-left: 1%;
 }
 
 h1 {
@@ -357,7 +357,7 @@ main p {
 footer {
   width: 85%;
   margin: auto;
-  height: 75px;
+  height: 60px;
   background-color: darkgrey;
 }
 
