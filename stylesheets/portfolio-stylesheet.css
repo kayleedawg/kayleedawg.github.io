@@ -191,10 +191,10 @@ h1 {
 }
 
 h2 {
-  font-family: 'Delius Unicase', cursive;
+  font-family: 'Oswald', sans-serif;
   font-weight: 300;
   margin-bottom: 1%;
-  font-size: 1.05em;
+  font-size: 1em;
 }
 
 h3 {
@@ -344,7 +344,7 @@ footer {
 }
 
 footer p {
-  margin: 1%;
+  display: inline-block;
   text-align: left;
   color: white;
   font-family: 'Delius Unicase', cursive;
