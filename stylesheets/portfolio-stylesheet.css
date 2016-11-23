@@ -363,10 +363,13 @@ footer p {
   display: inline-block;
   margin: 1% 5% 1% 1%;
   text-align: left;
-  color: white;
   font-family: 'Delius Unicase', cursive;
   font-weight: 400;
+}
+
+footer a {
   text-decoration: none;
+  color: white;
 }
 
 /*---end FOOTER---*/
