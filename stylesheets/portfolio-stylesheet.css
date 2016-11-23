@@ -184,12 +184,15 @@ h1 {
   font-family: 'Delius Unicase', cursive;
   font-weight: 700;
   margin-bottom: 1%;
+  font-size: 5em;
+  text-align: center;
 }
 
 h2 {
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
   margin-bottom: 1%;
+  font-size: 1.05em;
 }
 
 h3 {
@@ -299,6 +302,21 @@ figcaption p {
   font-weight: 300;
 }
 
+main h3 {
+  font-family: 'Delius Unicase', cursive;
+  font-weight: 400;
+}
+
+main h4 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+}
+
+main p {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
+
 /*-----TABLET internal page---*/
 @media (max-width: 768px) {
   figure {
@@ -315,11 +333,18 @@ figcaption p {
 
 /*---FOOTER---*/
 footer {
-  width: 75%;
+  width: 80%;
   margin: auto;
   height: 150px;
   text-align: center;
   line-height: 150px;
+  background-color: darkgrey;
+}
+
+footer p {
+  color: white;
+  font-family: 'Delius Unicase', cursive;
+  font-weight: 400;
 }
 
 /*---end FOOTER---*/
