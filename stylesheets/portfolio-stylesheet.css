@@ -350,7 +350,7 @@ footer {
 
 footer p {
   display: inline-block;
-  margin: 5%;
+  margin: 1% 5% 1% 1%;
   text-align: left;
   color: white;
   font-family: 'Delius Unicase', cursive;
