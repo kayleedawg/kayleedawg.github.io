@@ -184,7 +184,7 @@ h1 {
   font-family: 'Delius Unicase', cursive;
   font-weight: 700;
   margin-bottom: 1%;
-  font-size: 5em;
+  font-size: 3em;
   text-align: center;
 }
 
@@ -336,7 +336,6 @@ footer {
   width: 80%;
   margin: auto;
   height: 150px;
-  text-align: center;
   line-height: 150px;
   background-color: darkgrey;
 }
