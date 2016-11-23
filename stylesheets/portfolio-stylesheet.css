@@ -181,10 +181,11 @@ header {
 }
 
 h1 {
+  display: inline-block;
   font-family: 'Delius Unicase', cursive;
   font-weight: 700;
   margin-bottom: 1%;
-  font-size: 3em;
+  font-size: 2em;
   text-align: center;
 }
 
@@ -248,7 +249,7 @@ nav li:nth child(6) {
 }
 
 nav li img {
-  width: 100%;
+  width: 50%;
 }
 
 nav .row1,
