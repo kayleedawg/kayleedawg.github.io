@@ -348,7 +348,7 @@ main p {
 
   figure img {
     width: 100%;
-    margin: 50% auto 50% auto;
+    margin: 50% 0 50% 0;
   }
 }
 
