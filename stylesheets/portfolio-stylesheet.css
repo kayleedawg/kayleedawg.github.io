@@ -218,6 +218,22 @@ h3 {
 }
 /*---end TABLET header---*/
 
+/*------MOBILE header----*/
+@media (max-width: 375px) {
+  .logo-wrapper {
+    width: 100%;
+    display: block;
+    text-align: center;
+  }
+
+  .headline-wrapper {
+    display: block;
+    padding: 0;
+    text-align: center;
+  }
+}
+/*--end MOBILE HEADER---*/
+
 /*---end HEADER--*/
 
 /*--NAV---*/
