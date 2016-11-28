@@ -207,6 +207,7 @@ h3 {
   .logo-wrapper {
     width: 100%;
     display: block;
+    margin: 5%, 0, 5%, 0;
     text-align: center;
   }
 
