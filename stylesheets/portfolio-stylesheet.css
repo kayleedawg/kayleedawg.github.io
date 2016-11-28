@@ -171,7 +171,7 @@ header {
 .logo-wrapper {
   width: 19%;
   display: table-cell;
-  padding-right: 10%;
+  padding-right: 15%;
 }
 
 .headline-wrapper {
@@ -297,6 +297,7 @@ nav .row1 li {
 /*---INTERNAL NAV---*/
 .internal-nav ul {
   display: table;
+  margin-top: 5%;
 }
 
 .internal-nav li {
