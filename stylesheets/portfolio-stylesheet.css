@@ -171,6 +171,7 @@ header {
 .logo-wrapper {
   width: 19%;
   display: table-cell;
+  margin: 5%, 3%, 1%, 10%;
 }
 
 .headline-wrapper {
