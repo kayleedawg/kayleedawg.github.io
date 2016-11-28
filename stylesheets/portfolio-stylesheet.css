@@ -221,7 +221,7 @@ h3 {
 
 /*------MOBILE header----*/
 @media (max-width: 375px) {
-  .logo-wrapper {
+  header img {
     width: 100%;
     display: block;
     text-align: center;
