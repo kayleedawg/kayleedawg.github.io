@@ -370,7 +370,7 @@ main p {
 footer {
   width: 85%;
   margin: auto;
-  height: 70px;
+  height: 60px;
   background-color: darkgrey;
 }
 
@@ -386,6 +386,20 @@ footer a {
   text-decoration: none;
   color: white;
 }
+
+/*---TABLET footer--*/
+@media (max-width: 768px) {
+  footer {
+    height: 80px;
+  }
+}
+
+@media (max-width: 768px) {
+  footer p {
+    display: block;
+  }
+}
+/*--end TABLET footer--*/
 
 /*---MOBILE FOOTER---*/
 @media (max-width: 375px) {
