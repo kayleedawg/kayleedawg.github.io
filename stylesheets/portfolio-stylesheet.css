@@ -231,6 +231,10 @@ h3 {
     padding: 0;
     text-align: center;
   }
+
+  header h2 {
+    font-size: 1em;
+  }
 }
 /*--end MOBILE HEADER---*/
 
