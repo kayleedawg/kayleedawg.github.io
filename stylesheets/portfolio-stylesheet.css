@@ -303,6 +303,7 @@ nav .row1 li {
 .internal-nav li {
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
+  font-size: 2em;
   display: table-cell;
 }
 
