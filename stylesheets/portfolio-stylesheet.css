@@ -292,6 +292,10 @@ nav .row1 li {
 /*---end MOBILE pic nav---*/
 
 /*---INTERNAL NAV---*/
+.internal-nav ul {
+  display: table;
+}
+
 .internal-nav li {
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
@@ -400,6 +404,10 @@ footer p {
 footer a {
   text-decoration: none;
   color: white;
+}
+
+footer img {
+  height: 10%;
 }
 
 /*---TABLET footer--*/
