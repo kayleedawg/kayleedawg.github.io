@@ -364,7 +364,7 @@ footer {
 footer p {
   display: inline-block;
   margin: auto;
-  text-align: left;
+  text-align: center;
   font-family: 'Delius Unicase', cursive;
   font-weight: 400;
 }
