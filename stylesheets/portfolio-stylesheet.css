@@ -360,9 +360,23 @@ main p {
 
   figure img {
     width: 100%;
-    margin: 50% 0 50% 0;
+    margin: auto;
   }
 }
+/*--end TABLET internal--*/
+
+/*--MOBILE internal page--*/
+@media (max-width: 375px) {
+  figure {
+    display: block;
+  }
+
+  figure img {
+    width: 100%;
+    margin: auto;
+  }
+}
+/*--end MOBILE internal--*/
 
 /*--end MAIN--*/
 
