@@ -271,6 +271,7 @@ nav li:nth child(6) {
 
 nav li img {
   width: 100%;
+  border: 1pt solid black;
 }
 
 nav .row1,
