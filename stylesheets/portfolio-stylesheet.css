@@ -205,7 +205,7 @@ h3 {
 
 @media (max-width: 768px) {
   .logo-wrapper {
-    width: 100%;
+    width: 50%;
     margin: 5%, 0, 5%, 0;
     text-align: center;
     padding-left: 300px;
